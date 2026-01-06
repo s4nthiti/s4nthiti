@@ -1,111 +1,67 @@
-👋 Hi, I’m Ty
+# :orange: Hello there! 👋 I'm Santhiti Traiyasakda
 
-Full-stack Developer with 5+ years of experience building scalable web applications and backend services.
-Experienced in healthcare systems, government platforms, and real-time web applications.
+## 🚀 Fullstack Developer | 5+ Years Experience
 
-I enjoy designing clean architectures, optimizing performance, and turning complex requirements into reliable products.
+I'm a passionate fullstack developer who loves building robust, scalable applications that solve real-world problems. From healthcare systems to government solutions, I enjoy tackling complex challenges and delivering quality software.
 
-🧠 Tech Stack
-🖥️ Frontend
+### 💼 Professional Experience
 
-Angular
+Over the past 5 years, I've worked on diverse projects including:
 
-React
+- **Healthcare Systems** - Electronic Medical Document management and Medication Tracking platforms for patient care and Electronical Consent Form System
+- **Government Solutions** - Budget Management systems for government agencies
+- **Game Development** - Multiplayer web games and community tools as passion projects
 
-Next.js
+### 🛠️ Tech Stack
 
-Vite (build tool)
+**Frontend**
+- React, Next.js, Angular
+- JavaScript & TypeScript
+- Vite, Vitest, Playwright
 
-⚙️ Backend
+**Backend**
+- ASP.NET Core
+- Node.js (Express, Fastify)
+- WebSocket & Server-Sent Events
 
-ASP.NET Core
+**Database**
+- PostgreSQL, MSSQL, MongoDB
+- Prisma ORM
 
-Node.js (Express, Fastify)
+**DevOps & Tools**
+- Docker
+- CI/CD (Jenkins, GitLab CI/CD)
+- Git
+- Swagger/OpenAPI
 
-REST APIs & Server-Sent Events (SSE)
+**Cloud & Deployment**
+- Vercel
+- Neon (Serverless PostgreSQL)
 
-WebSocket (real-time communication)
+### 💼 Working Experience
 
-🗄️ Databases
+- **Healthcare Systems**
+  - Electronic Medical Document (EMR/EMD) Systems
+  - Medication Tracking & Management for Patients
+  - Electronic Consent Form System
+    - Designed and implemented a dynamic form builder
+    - Converted paper-based consent documents into structured electronic forms
+    - Supported digital signatures
+- **Government & Enterprise**
+  - Budget Management Systems for Government Agencies
+    - Role-based access control and reporting dashboards
 
-PostgreSQL
+### 🎮 Hobby Projects
 
-Microsoft SQL Server (MSSQL)
+When I'm not working, I love building game-related tools:
 
-MongoDB
+- **Multiplayer Web Game** - Real-time gaming experiences using WebSocket
+- **Online Game Alliance Registration** - Community management platform
+- **Item Enhancing Tracker** - Game progression tracking tool
 
-Neon (serverless Postgres)
+### 📫 Contact!
 
-🧩 ORM / Data Access
+- 📧 Email: s4nthiti@gmail.com
+- 🌐 Portfolio: (https://orangeleafy.vercel.app/)
 
-Prisma
-
-🧪 Testing
-
-Vitest
-
-Playwright
-
-🚀 DevOps & Platform
-
-Docker
-
-CI/CD (Jenkins, GitLab CI/CD)
-
-Vercel
-
-Git
-
-📄 API & Documentation
-
-Swagger / OpenAPI
-
-💬 Languages
-
-JavaScript
-
-TypeScript
-
-🏥 Professional Experience
-Healthcare Systems
-
-Electronic Medical Document systems
-
-Medication tracking and management for patients
-
-Secure clinical data handling and audit logging
-
-Government & Enterprise
-
-Budget management systems for government agencies
-
-Role-based access control and reporting dashboards
-
-High-reliability backend services
-
-🎮 Hobby & Side Projects
-
-Multiplayer Web Games
-
-Online Game Alliance Registration Systems
-
-Item Enhancing & Progress Tracking Tools
-
-Real-time features using WebSocket & SSE
-
-🔍 What I Care About
-
-Clean architecture & maintainable code
-
-Performance & scalability
-
-Developer experience & automation
-
-Real-time systems & data integrity
-
-📫 Let’s Connect
-
-GitHub: @s4nthiti
-Portfolio: (optional)
-
-LinkedIn: (optional)
+---
