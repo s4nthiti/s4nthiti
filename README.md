@@ -21,7 +21,7 @@ Over the past 5 years, I've worked on diverse projects including:
 
 **Backend**
 - ASP.NET Core
-- Node.js (Express, Fastify)
+- Node.js (Express, Fastify, NestJS)
 - WebSocket & Server-Sent Events
 
 **Database**
